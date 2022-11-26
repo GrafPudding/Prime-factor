@@ -1,0 +1,10 @@
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.deps.json
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.dll
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\bin\Debug\netcoreapp3.1\PrimeFactorsTask.pdb
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.csproj.AssemblyReference.cache
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.AssemblyInfoInputs.cache
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.AssemblyInfo.cs
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.csproj.CoreCompileInputs.cache
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.dll
+C:\Users\RomaNov\source\repos\prime-factors\PrimeFactorsTask\obj\Debug\netcoreapp3.1\PrimeFactorsTask.pdb
